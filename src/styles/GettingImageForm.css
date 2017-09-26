@@ -1,0 +1,39 @@
+.getImage {
+	background-color: rgba(255, 255, 255, 0.4);
+	padding: 10px;
+	text-align: center;
+	margin: 0;
+	color: white;
+}
+
+.getImage h1 {
+	margin: 0px;
+	font-family: "Rubik Mono One", sans-serif;
+	font-size: 40px;
+	font-weight: lighter;
+	padding: 0;
+	color: #eb7e5b;
+}
+
+.getImage label {
+	margin: 0px 10px;
+}
+
+.getImage img {
+	width: 500px;
+	margin: 10px 0px;
+}
+
+.getImage button {
+	background-color: #eb7e5b;
+	color: white;
+	border: none;
+	height: 20px;
+}
+
+.getImage button:hover {
+	background-color: #be4c28;
+	color: white;
+	border: none;
+	height: 20px;
+}
